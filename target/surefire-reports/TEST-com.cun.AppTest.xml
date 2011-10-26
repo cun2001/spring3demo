@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.01" errors="0" skipped="0" tests="1" name="com.cun.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="E:\java\jdk1.6.0_29\jre\bin"/>
+    <property name="java.vm.version" value="20.4-b01"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\11\Spring3Demo"/>
+    <property name="java.runtime.version" value="1.6.0_29-ea-b08"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="F:\11\Spring3Demo"/>
+    <property name="java.endorsed.dirs" value="E:\java\jdk1.6.0_29\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="F:\11\Spring3Demo\target\surefire\surefirebooter2551005060595212016.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\llf\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="E:\java\jdk1.6.0_29\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\java\jdk1.6.0_29\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;F:\cun2001\kj;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;D:\Program Files\TortoiseSVN\bin;D:\Program Files\MySQL\MySQL Server 5.5\bin;E:\java\apache-maven-3.0.3\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;."/>
+    <property name="surefire.test.class.path" value="F:\11\Spring3Demo\target\test-classes;F:\11\Spring3Demo\target\classes;D:\repository\junit\junit\3.8.1\junit-3.8.1.jar;D:\repository\org\springframework\spring-core\3.0.5.RELEASE\spring-core-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-asm\3.0.5.RELEASE\spring-asm-3.0.5.RELEASE.jar;D:\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;D:\repository\org\springframework\spring-context\3.0.5.RELEASE\spring-context-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-aop\3.0.5.RELEASE\spring-aop-3.0.5.RELEASE.jar;D:\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\repository\org\springframework\spring-beans\3.0.5.RELEASE\spring-beans-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-expression\3.0.5.RELEASE\spring-expression-3.0.5.RELEASE.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\llf"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="llf"/>
+    <property name="java.class.path" value="F:\11\Spring3Demo\target\test-classes;F:\11\Spring3Demo\target\classes;D:\repository\junit\junit\3.8.1\junit-3.8.1.jar;D:\repository\org\springframework\spring-core\3.0.5.RELEASE\spring-core-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-asm\3.0.5.RELEASE\spring-asm-3.0.5.RELEASE.jar;D:\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;D:\repository\org\springframework\spring-context\3.0.5.RELEASE\spring-context-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-aop\3.0.5.RELEASE\spring-aop-3.0.5.RELEASE.jar;D:\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;D:\repository\org\springframework\spring-beans\3.0.5.RELEASE\spring-beans-3.0.5.RELEASE.jar;D:\repository\org\springframework\spring-expression\3.0.5.RELEASE\spring-expression-3.0.5.RELEASE.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="E:\java\jdk1.6.0_29\jre"/>
+    <property name="sun.java.command" value="F:\11\Spring3Demo\target\surefire\surefirebooter2551005060595212016.jar F:\11\Spring3Demo\target\surefire\surefire1701551603560437877tmp F:\11\Spring3Demo\target\surefire\surefire6047522699842630449tmp"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_29-ea"/>
+    <property name="java.ext.dirs" value="E:\java\jdk1.6.0_29\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="E:\java\jdk1.6.0_29\jre\lib\resources.jar;E:\java\jdk1.6.0_29\jre\lib\rt.jar;E:\java\jdk1.6.0_29\jre\lib\sunrsasign.jar;E:\java\jdk1.6.0_29\jre\lib\jsse.jar;E:\java\jdk1.6.0_29\jre\lib\jce.jar;E:\java\jdk1.6.0_29\jre\lib\charsets.jar;E:\java\jdk1.6.0_29\jre\lib\modules\jdk.boot.jar;E:\java\jdk1.6.0_29\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="D:\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.001" classname="com.cun.AppTest" name="testApp"/>
+</testsuite>
